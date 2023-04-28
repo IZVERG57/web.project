@@ -1,0 +1,7 @@
+requests
+flask
+flask-wtf
+pymorphy2
+CurrencyConverter
+WTForms
+sqlalchemy
